@@ -1,0 +1,28 @@
+---
+title: "recipes"
+format: html
+editor: visual
+---
+
+# How to cook rice
+
+## Required:
+1. Rice
+1. Water
+1. Rice cooker
+
+## Step 1: Measure rice
+
+Put the desired amount of rice into the pot of the rice cooker.
+
+## Step 2: Wash the rice
+
+Rinse the rice, if necessary.
+
+## Step 3: Measure the water
+
+Follow the instructions on the rice package, or use the marks inside the rice cooker. 
+
+## Step 4: Cook the rice
+
+Put the pot back into the cooker, close the lid, and press **Start**. 
